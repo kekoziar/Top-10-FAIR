@@ -44,7 +44,7 @@ Oceanographic data encompasses a wide variety of data formats, file sizes, and s
 
 ### Audience
 
-* Library staff and programers who provide research support
+* Library staff and programmers who provide research support
 * Oceanographers
 * Oceanography data stewards
 * Researchers, scholars and students in Oceanography
